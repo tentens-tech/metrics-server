@@ -1,0 +1,6 @@
+{"name":"preemption","labels":{"label":"value"},"op":"event","value":1.0}
+{"name":"preemption","labels":{"label":"value"},"op":"event","value":1.0}
+{"name":"preemption","labels":{"label":"value"},"op":"event","value":1.0}
+{"name":"preemption","labels":{"label":"value"},"op":"event","value":1.0}
+
+{"name":"test_event","labels":{"app":"test_app","event_type":"test_event",},"op":"event","value":1}

@@ -1,0 +1,4 @@
+{"name":"event","labels":{"label1":"labelvalue1","label2":"labelvalue2"},"op":"index","index":"preemptible","value":1.0}
+{"name":"event1","labels":{"label1":"labelvalue1","label2":"labelvalue2"},"op":"index","index":"preemptible","value":1.0}
+{"name":"event3","labels":{"label1":"labelvalue1","label2":"labelvalue2"},"op":"index","index":"preemptible","value":1.0}
+{"name":"event4","labels":{"label1":"labelvalue1","label2":"labelvalue2"},"op":"index","index":"preemptible","value":1.0}

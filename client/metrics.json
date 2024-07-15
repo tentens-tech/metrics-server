@@ -1,0 +1,5 @@
+{"name":"metric","labels":{"label1":"labelvalue1"},"op":"inc","value":1.0}
+{"name":"jobs_runned","labels":{"app":"job-counter","instance":"job-counter-a32q35as"},"op":"inc","value":1.0}
+{"name":"metric2","labels":{"label1":"labelvalue1","label2":"labelvalue2"},"op":"inc","value":0.0}
+{"name":"metric3","labels":{"label1":"labelvalue1","label2":"labelvalue2"},"op":"inc","value":1.0}
+{"name":"metric3","labels":{"label1":"labelvalue3","label2":"labelvalue4"},"op":"inc","value":1.0}
